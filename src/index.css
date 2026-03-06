@@ -1,0 +1,5 @@
+@import "tailwindcss";
+input::placeholder {
+  font-size: 13px;
+  font-weight: medium;
+}
